@@ -7,4 +7,4 @@
 
 # Technologies 
 
-This UI can be developed using various technologies. Common choices include:
+*This UI can be developed using various technologies. Common choices include:*
