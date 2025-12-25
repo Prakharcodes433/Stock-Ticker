@@ -1,0 +1,28 @@
+body{
+  background: linear-gradient(to right, #7a3a2e, #a75d3c, #7a3a2e);
+   font-family: 'Cascadia Code', 'Fira Code', monospace;
+}
+.container{
+  background-color:rgb(25, 25, 25);
+  padding: 50px;
+  border-radius: 10px;
+  width: 300px;
+  margin: 200px auto;
+  border: 3px solid #eee;
+}
+
+.main{
+  background-color: white;
+  color: black;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: medium;
+  display: flex;
+  flex-direction: column;
+  width: 270px;
+}
+
+p{
+   font-size: 20px;
+   margin: 4px;
+}
