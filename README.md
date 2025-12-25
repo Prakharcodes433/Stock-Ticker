@@ -9,4 +9,4 @@
 
 *This UI can be developed using various technologies. Common choices include:*
 
-*Frontend: HTML, CSS, JavaScript (React, Vue, or Next.js are popular frameworks)*
+* *Frontend: HTML, CSS, JavaScript (React, Vue, or Next.js are popular frameworks)*
