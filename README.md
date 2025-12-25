@@ -6,3 +6,5 @@
 * *Time Tracking: Displays the last updated time for data freshness.*
 
 # Technologies 
+
+This UI can be developed using various technologies. Common choices include:
