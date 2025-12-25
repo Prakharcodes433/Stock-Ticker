@@ -11,4 +11,4 @@
 
 * *Frontend: HTML, CSS, JavaScript (React, Vue, or Next.js are popular frameworks)*
 
-* Backend: Node.js, Python, or a similar language to handle API requests
+* *Backend: Node.js, Python, or a similar language to handle API requests*
