@@ -13,4 +13,4 @@
 
 * *Backend: Node.js, Python, or a similar language to handle API requests*
  
-*Data Sources: APIs from providers like Finage, yfinance, or Coinmarketcap
+* Data Sources: APIs from providers like Finage, yfinance, or Coinmarketcap
